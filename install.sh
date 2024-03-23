@@ -183,9 +183,9 @@ clear
     fi
 	echo -e "${BGreen}Done!${NC}"
     sleep 2
-CHATID="-1002015199453"
-KEY="6409879237:AAE1vPwbqfiWmRkV-AbCa6-tepM5w5FTGz0"
-WKT="10"
+CHATID="5888076846"
+KEY="6483981163:AAF9hMhavGJNB86Cdab9Cy8O2ZUCXuj5-xE"
+WKT="5"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 TEXT="Project VPN TUNNELING 
 ============================
